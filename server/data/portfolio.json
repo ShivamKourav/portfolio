@@ -1,0 +1,34 @@
+{
+  "portfolio": {
+    "name": "Shivam Kourav",
+    "headline": "B.Tech CSE Student · React Developer · DSA Learner",
+    "email": "",
+    "location": "Jabalpur, Madhya Pradesh, India",
+    "education": "B.Tech, Computer Science — Shri Ram Institute of Technology, Jabalpur (2024–2028)",
+    "socials": {
+      "github": "https://github.com/ShivamKourav",
+      "linkedin": "",
+      "instagram": ""
+    }
+  },
+  "projects": [
+    {
+      "id": "ai-moodsense",
+      "title": "AI MoodSense",
+      "category": "AI · React · Emotion Recognition",
+      "description": "An AI-powered web application that detects facial emotions and connects the detected mood with music recommendations.",
+      "tech": [
+        "React",
+        "Vite",
+        "JavaScript",
+        "Node.js",
+        "FastAPI"
+      ],
+      "githubUrl": "https://github.com/ShivamKourav/detection",
+      "liveUrl": "https://moodify-kappa-ashy.vercel.app/",
+      "published": true,
+      "featured": true
+    }
+  ],
+  "messages": []
+}

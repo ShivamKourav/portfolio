@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <radialGradient id="orange" cx="32%" cy="24%" r="78%"><stop stop-color="#ffb18c"/><stop offset=".48" stop-color="#ff7837"/><stop offset="1" stop-color="#dd4810"/></radialGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="url(#orange)"/>
+  <text x="32" y="44" fill="#130804" font-family="Brush Script MT, Segoe Script, cursive" font-size="49" font-style="italic" font-weight="900" text-anchor="middle" transform="rotate(-10 32 32)">S</text>
+</svg>
